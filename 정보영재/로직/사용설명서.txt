@@ -1,0 +1,31 @@
+LogicBuilder2 사용법
+---------------------------------------------------------------------------------------------------------
+1. LogicBuilder2 압축을 풉니다.
+
+	LogicBuilder2.zip 파일구성(14개 파일)
+		LogicBuilder2.jar  →  로직빌더 실행파일
+		LogicAnalysis.exe  →  로직분석기(흑백로직전용) 실행파일
+		Board.class
+		Column.class
+		LogicCoder.class
+		LogicPuzzler.class
+		Row.class
+		TButton.class
+		ColorBoard.class
+		ColorButton.class
+		ColorColumn.class
+		ColorPuzzler.clss
+		ColorRow.class
+		사용설명서.txt
+
+2. 자바 설치
+	http://java.com 에 접속해서 최신 자바를 무료로 설치합니다.
+
+3. 로직빌더 실행
+	LogicBuilder2.jar을 더블클릭하여 로직빌더를 실행시킨 후 로직을 만듭니다.
+	로직을 저장하면 html파일과 lim파일이 생성됩니다.
+	html파일 메모장에서 열어 그 내용을 로직홈 로직게시판에 붙여넣기 합니다.
+
+※로직빌더 사용에 대한 더 자세한 사항은 로직홈 FAQ를 참고하시고 궁금점은 질답게시판에 남겨주세요.
+---------------------------------------------------------------------------------------------------------
+프로그램 소스를 제공해주신 임동혁님과 김지훈님께 감사드립니다.

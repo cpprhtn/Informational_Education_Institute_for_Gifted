@@ -1,0 +1,68 @@
+LogicBuilder 1.71
+
+Tong h. Lim
+(tong@islab.kaist.ac.kr)
+
+Dept. of Computer Science, KAIST
+   
+(c) 1999 - 2001  Tong h. Lim
+    tong@islab.kaist.ac.kr
+    http://www.digitaljapan.org/
+    http://www.digitaljapan.co.kr/
+
+
+-------------------------------------------------------------------------------
+
+
+LogicBuilder 1.71이 C:\LogicBuilder 디렉토리에 설치되었습니다.
+
+
+C:\LogicBuilder 디렉토리를 열면 다음과 같은 파일들이 있어야 합니다.
+
+
+LogicBuilder    -> 요놈이 실행파일
+Board.class
+LogicBuilder.jar
+Column.class
+LogicCoder.class
+LogicPuzzler.class
+Row.class
+TButton.class
+sample.html
+sample.lim
+Readme.txt
+Welcome.txt
+
+
+이 중에서 LogicBuilder를 두 번 누르시면 실행됩니다.
+
+만약, 바탕화면이나 시작 버튼에 '바로가기'를 만들고 싶으시면,
+
+이 LogicBuilder 파일을 복사하시면 됩니다.
+
+LogicBuilder를 두 번 눌러 실행하신 후
+
+File -> Open 메뉴를 선택해서
+
+sample.lim을 불러보세요.
+
+잘 되나요? ^^;
+
+
+잘 안되시면, C:\LogicBuilder 디렉토리의 readme.txt 파일을 읽어보세요.
+
+
+-------------------------------------------------------------------------------
+
+
+LogicBuilder와 LogicPuzzler를 사용하여, 즐거운 하루가 되시길 바랍니다.
+
+만약, 잘 안되거나 의문 사항이 있으시면, 제게 연락주세요.
+  
+제 E-mail 주소는 tong@islab.kaist.ac.kr이고,
+  
+홈페이지는 http://www.digitaljapan.co.kr/ 입니다.
+  
+JRE.exe, LogicBuilder.exe는 http://www.digitaljapan.co.kr/logic/ 에서
+  
+항상 최신 버전을 받으실 수 있습니다.
